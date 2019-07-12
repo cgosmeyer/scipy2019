@@ -1,6 +1,8 @@
 # SciPy Day 1
 10 July 2019
 
+*Data science is blue*
+
 ## The Invisible Work of Maintaining and Sustaining Open-Source Software
 Stuart Geiger
 

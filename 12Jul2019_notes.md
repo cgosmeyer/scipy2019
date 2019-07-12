@@ -45,3 +45,32 @@ One of best talks so far
 ### Resources
 	- `cprofile` and `line_profile` + `SnakeVIZ`
 		- Find time spent in each function graphically
+
+## Invisible Work, Incentives, and Burnout in Open Communities
+Dorothy Howard
+
+## Work Open, Lead Open ($WOLO)
+Abigail Mayes
+
+	- Interesting open-the-mountain illustration of how to bring in and keep people in your community and bring them into leadership roles.
+	- To keep people, show them how their work contributed to the community's goal. 
+	- Align their interests/skills with tasks. 
+	- Have a clear end-time for leadership roles. It should be something that gets "renewed" rather than something they step down from.
+
+## Astropy Beyond Astronomy: Infrastrcutre of an Open Source Ecosystem
+Brigitta Sipocz
+
+	- Always the documentation self-back pats. 
+	- What IS the problem with Astropy?  I think it is that most of the developers aren't the users who rely on it every day.
+
+## Lightning Talks
+
+	- Cat's Eyes are a way to express error bars
+	- Should try plotting in Seaborn
+	- `DataClass` is new in Python 3.7.  I might have used this instead of making data containers for my verification!
+		- Requires optional typing.
+	- signac - help with maintaining file-based workflows esp with HPC systems
+		- maintained by computaional material scientists (github @bdice)
+		- https://github.com/glotzerlab/signac
+	- Pypy is fast Python, Python with a jit.
+
